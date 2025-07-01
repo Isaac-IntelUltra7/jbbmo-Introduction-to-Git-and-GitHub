@@ -1,7 +1,5 @@
 # Introduction to Git and GitHub
 
-# Aquí hay una nueva actualización por Isaac-IntelUltra7
-
 ## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
